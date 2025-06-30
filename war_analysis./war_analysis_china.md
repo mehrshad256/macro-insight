@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/94f35d6a-97a0-4080-8a96-c8c034e30581)🇬🇧 LinkedIn English Post (Short, Analytical)
+🇬🇧 LinkedIn English Post (Short, Analytical)
 
 Is Asia on the brink of a geopolitical flashpoint?
 
