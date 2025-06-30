@@ -20,7 +20,7 @@ A bearish divergence in the RSI combined with strong U.S. fundamentals suggests 
 
         Watch for surprise upside in employment numbers.
 
-    NADP Index
+    NFP Index
 
         Currently above 100, indicating a healthy U.S. economy.
 
