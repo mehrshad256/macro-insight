@@ -27,3 +27,8 @@ Final national CPI due later today is unlikely to beat expectations meaningfully
 
 No upside surprise → No support for EUR
 No major downside → No panic either
+---
+open short: By dividing the risk into two entry areas, it is possible to
+![image](https://github.com/user-attachments/assets/c84482f7-69fc-40d1-a8ae-99caae4506d6)
+
+
