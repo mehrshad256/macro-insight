@@ -73,3 +73,14 @@ The effects of currency appreciation on data will manifest with delay.
 ECB’s monetary policy decisions are constrained by currency dynamics.
 
 Reflexivity in markets means price moves and investor sentiment continually shape each other.
+
+---
+**Wednesday07/02**
+ADP Non-Farm Employment Change
+
+Actual 33k- 👎🏻
+Expected 95k
+Previous 37k
+Since the market has anticipated this data, I don't expect the dollar to weaken, so I took a small risk on the euro.
+![image](https://github.com/user-attachments/assets/9c6d8d10-ab17-4f53-a63a-7d7ab9f5bba5)
+
