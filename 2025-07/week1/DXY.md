@@ -25,3 +25,19 @@ A bearish divergence in the RSI combined with strong U.S. fundamentals suggests 
         Currently above 100, indicating a healthy U.S. economy.
 
         Even if it reaches 120 as expected, the impact may be muted due to prior pricing-in by the market.
+
+---
+**07-02**
+📉 Goldman Sachs Outlook on the USD
+
+Goldman Sachs states that if the U.S. Non-Farm Payrolls (NFP) report comes in weaker than expected or shows signs of labor market softening, this would clearly weigh on the US dollar—especially versus the Euro and the Japanese Yen.
+
+📊 Such data would reinforce expectations of a more accommodative Federal Reserve stance, exerting additional downward pressure on the dollar across global markets.
+
+🔹 Goldman Sachs’ Base Case:
+
+Unless the data is significantly weak, the baseline scenario remains a gradual dollar decline. This trend supports emerging market yields and the strengthening of the Chinese yuan, while also impacting other Asian currencies.
+
+⭕️ Conclusion:
+Goldman Sachs emphasizes that the June U.S. employment report could trigger the next phase of dollar weakness, with the Euro and Yen positioned to benefit the most.
+If the data leans toward rate cuts, further dollar selling is expected; otherwise, a gradual dollar decline will remain the base case as macro drivers continue to shape currency market movements.
