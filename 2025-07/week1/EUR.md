@@ -83,4 +83,66 @@ Expected 95k
 Previous 37k
 Since the market has anticipated this data, I don't expect the dollar to weaken, so I took a small risk on the euro.
 ![image](https://github.com/user-attachments/assets/9c6d8d10-ab17-4f53-a63a-7d7ab9f5bba5)
+close 
+#USD #NFP 🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸🇺🇸
 
+▪️
+Non-Farm Employment Change
+
+Actual 147K
+Fg 110K
+Previous 139K
+
+Unemployment Rate
+
+Actual 4.1%
+Fg 4.3%
+Previous 4.2%
+
+Average Hourly Earnings m/m
+
+Actual 0.2%
+Fg 0.3%
+Previous 0.4%
+
+Average Hourly Earnings y/y
+
+Actual 3.7%
+Fg 3.9%
+Previous 3.9%
+
+Participation Rate
+
+Actual 62.3%
+Previous 62.4%
+
+Unemployment Claims
+
+Actual 233K
+Fg 240K
+Previous 237K
+
+Continuing Jobless Claims
+
+Actual 1964K
+Fg 1960K
+Previous 1964K
+
+ISM Non-Manufacturing PMI
+
+Actual      50.8
+Forecast    50.5
+Previous            49.9
+Factory Orders m/m
+
+Actual       8.2%
+FY       8.2%
+Previous         -3.9%
+
+U.S. Data Journal – July 3, 2025
+
+Today's U.S. economic releases showed a stronger-than-expected labor market, with Non-Farm Payrolls (NFP) surprising to the upside, alongside increases in factory orders and a solid ISM Services PMI print.
+
+The combination of these indicators points to persistent demand strength across both goods and services. Moreover, the upward trend in factory orders and service sector activity suggests that tariffs are beginning to feed into cost structures, adding inflationary pressure from the supply side.
+
+While the labor market remains resilient, the risk is that sticky input costs—partly tariff-driven—may complicate the disinflation narrative and potentially delay any dovish policy shift from the Fed.
